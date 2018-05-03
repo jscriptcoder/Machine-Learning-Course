@@ -1,2 +1,2 @@
-# machine-learning-course
+# Machine Learning Course
 Machine Learning by Stanford University
