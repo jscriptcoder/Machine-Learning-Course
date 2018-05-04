@@ -14,16 +14,16 @@ We’ll also have optional lessons that provide a refresher on linear algebra co
 
 ### Introduction ###
 - [x] Welcome
-- [x] What is Machine Learning?
+- [x] [What is Machine Learning?](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=0)
 - [x] How to Use Discussion Forums
-- [x] Supervised Learning
-- [x] Unsupervised Learning
+- [x] [Supervised Learning](https://www.youtube.com/watch?v=bQI5uDxrFfA&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=1)
+- [x] [Unsupervised Learning](https://www.youtube.com/watch?v=jAA2g9ItoAc&index=2&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
 - [x] Who are Mentors?
 - [x] Get to Know Your Classmates
 - [x] Frequently Asked Questions
 
 **Review**
-Lecture Slides
+- Lecture Slides
 
 **Quiz**
 - [x] Introduction
@@ -32,15 +32,15 @@ Lecture Slides
 Linear regression predicts a real-valued output based on an input value. We discuss the application of linear regression to housing price prediction, present the notion of a cost function, and introduce the gradient descent method for learning.
 
 ### Model and Cost Function ###
-- [x] Model Representation
-- [x] Cost Function
-- [x] Cost Function - Intuition I
-- [x] Cost Function - Intuition II
+- [x] [Model Representation](https://www.youtube.com/watch?v=kHwlB_j7Hkc&index=3&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
+- [x] [Cost Function](https://www.youtube.com/watch?v=yuH4iRcggMw&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=4)
+- [x] [Cost Function - Intuition I](https://www.youtube.com/watch?v=yR2ipCoFvNo&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=5)
+- [x] [Cost Function - Intuition II](https://www.youtube.com/watch?v=0kns1gXLYg4&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=6)
 
 ### Parameter Learning ###
-- [x] Gradient Descent
-- [x] Gradient Descent Intuition
-- [x] Gradient Descent For Linear Regression
+- [x] [Gradient Descent](https://www.youtube.com/watch?v=F6GSRDoB-Cg&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=7)
+- [x] [Gradient Descent Intuition](https://www.youtube.com/watch?v=YovTqTY-PYY&index=8&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
+- [x] [Gradient Descent For Linear Regression](https://www.youtube.com/watch?v=GtSf2T6Co80&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=9)
 
 **Review**
 - Lecture Slides
