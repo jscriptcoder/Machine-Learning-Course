@@ -1,1 +1,58 @@
 # Week 2
+
+## Linear Regression with Multiple Variables ##
+Welcome to week 2! I hope everyone has been enjoying the course and learning a lot! This week we’re covering linear regression with multiple variables. we’ll show how linear regression can be extended to accommodate multiple input features. We also discuss best practices for implementing linear regression.
+
+We’re also going to go over how to use Octave. You’ll work on programming assignments designed to help you understand how to implement the learning algorithms in practice. To complete the programming assignments, you will need to use Octave or MATLAB.
+
+As always, if you get stuck on the quiz and programming assignment, you should post on the Discussions to ask for help. (And if you finish early, I hope you'll go there to help your fellow classmates as well.)
+
+### Environment Setup Instructions ###
+- [x] Setting Up Your Programming Assignment Environment
+- [x] Installing MATLAB
+- [x] Installing Octave on Windows
+- [x] Installing Octave on Mac OS X (10.10 Yosemite and 10.9 Mavericks and Later)
+- [x] Installing Octave on Mac OS X (10.8 Mountain Lion and Earlier)
+- [x] Installing Octave on GNU/Linux
+- [x] More Octave/MATLAB resources
+
+### Multivariate Linear Regression ###
+- [x] Multiple Features
+- [x] Gradient Descent for Multiple Variables
+- [x] Gradient Descent in Practice I - Feature Scaling
+- [x] Gradient Descent in Practice II - Learning Rate
+- [x] Features and Polynomial Regression
+
+### Computing Parameters Analytically ###
+- [x] Normal Equation
+- [x] Normal Equation Noninvertibility
+
+### Submitting Programming Assignments ###
+- [x] Working on and Submitting Programming Assignments
+- [x] Programming tips from Mentors
+
+**Review**
+- Lecture Slides
+
+**Quiz**
+- [x] Linear Regression with Multiple Variables
+
+## Octave/Matlab Tutorial ##
+This course includes programming assignments designed to help you understand how to implement the learning algorithms in practice. To complete the programming assignments, you will need to use Octave or MATLAB. This module introduces Octave/Matlab and shows you how to submit an assignment.
+
+### Octave/Matlab Tutorial ###
+- [x] Basic Operations
+- [x] Moving Data Around
+- [x] Computing on Data
+- [x] Plotting Data
+- [x] Control Statements: for, while, if statement
+- [x] Vectorization
+
+**Review**
+- Lecture Slides
+
+**Quiz**
+- [x] Octave/Matlab Tutorial
+
+**Programming Assignment**
+- [x] Linear Regression
