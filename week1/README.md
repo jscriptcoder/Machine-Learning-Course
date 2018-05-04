@@ -23,7 +23,7 @@ We’ll also have optional lessons that provide a refresher on linear algebra co
 - [x] Frequently Asked Questions
 
 **Review**
-- Lecture Slides
+- [Lecture Slides](lecture1.pdf)
 
 **Quiz**
 - [x] Introduction
@@ -44,7 +44,7 @@ Linear regression predicts a real-valued output based on an input value. We disc
 - [x] [What's next?](https://www.youtube.com/watch?v=OS7KXu0447I&index=10&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
 
 **Review**
-- Lecture Slides
+- [Lecture Slides](lecture2.pdf)
 
 **Quiz**
 - [x] Linear Regression with One Variable
@@ -61,7 +61,7 @@ This optional module provides a refresher on linear algebra concepts. Basic unde
 - [x] [Inverse and Transpose](https://www.youtube.com/watch?v=7snro4M6ukk&index=16&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
 
 **Review**
-- Lecture Slides
+- [Lecture Slides](lecture3.pdf)
 
 **Practice Quiz**
 - [x] Linear Algebra
