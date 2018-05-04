@@ -41,6 +41,7 @@ Linear regression predicts a real-valued output based on an input value. We disc
 - [x] [Gradient Descent](https://www.youtube.com/watch?v=F6GSRDoB-Cg&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=7)
 - [x] [Gradient Descent Intuition](https://www.youtube.com/watch?v=YovTqTY-PYY&index=8&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
 - [x] [Gradient Descent For Linear Regression](https://www.youtube.com/watch?v=GtSf2T6Co80&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=9)
+- [x] [What's next?](https://www.youtube.com/watch?v=OS7KXu0447I&index=10&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
 
 **Review**
 - Lecture Slides
@@ -52,12 +53,12 @@ Linear regression predicts a real-valued output based on an input value. We disc
 This optional module provides a refresher on linear algebra concepts. Basic understanding of linear algebra is necessary for the rest of the course, especially as we begin to cover models with multiple variables.
 
 ### Linear Algebra Review ###
-- [x] Matrices and Vectors
-- [x] Addition and Scalar Multiplication
-- [x] Matrix Vector Multiplication
-- [x] Matrix Matrix Multiplication
-- [x] Matrix Multiplication Properties
-- [x] Inverse and Transpose
+- [x] [Matrices and Vectors](https://www.youtube.com/watch?v=Dft1cqjwlXE&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=11)
+- [x] [Addition and Scalar Multiplication](https://www.youtube.com/watch?v=4WP6jVGIn7M&index=12&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
+- [x] [Matrix Vector Multiplication](https://www.youtube.com/watch?v=gPegoVYp64w&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=13)
+- [x] [Matrix Matrix Multiplication](https://www.youtube.com/watch?v=_lrHXJRukMw&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=14)
+- [x] [Matrix Multiplication Properties](https://www.youtube.com/watch?v=c7GhnL2N--I&index=15&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
+- [x] [Inverse and Transpose](https://www.youtube.com/watch?v=7snro4M6ukk&index=16&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
 
 **Review**
 - Lecture Slides
