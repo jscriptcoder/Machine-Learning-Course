@@ -9,11 +9,11 @@ We are going to start by covering linear regression with one variable. Linear re
 We’ll also have optional lessons that provide a refresher on linear algebra concepts. Basic understanding of linear algebra is necessary for the rest of the course, especially as we begin to cover models with multiple variables. If you feel confident in your understanding of linear algebra, feel free to take a break or help other students out in the forums.
 
 ### Welcome ###
-- [x] Welcome to Machine Learning
+- [x] [Welcome to Machine Learning](https://www.youtube.com/watch?v=gNkE3tFUFuw&list=PL0Smm0jPm9WcCsYvbhPCdizqNKps69W4Z)
 - [x] Machine Learning Honor Code
 
 ### Introduction ###
-- [x] Welcome
+- [x] [Welcome](https://www.youtube.com/watch?v=571IIGJKeoA&t=20s)
 - [x] [What is Machine Learning?](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=0)
 - [x] How to Use Discussion Forums
 - [x] [Supervised Learning](https://www.youtube.com/watch?v=bQI5uDxrFfA&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=1)
