@@ -47,4 +47,4 @@ Machine learning models need to generalize well to new examples that the model h
 - [x] Regularization
 
 **Programming Assignment**
-- [x] Logistic Regression
+- [x] [Logistic Regression](ex2.pdf)
