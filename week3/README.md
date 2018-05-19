@@ -24,7 +24,7 @@ As always, if you get stuck on the quiz and programming assignment, you should p
 - [x] Multiclass Classification: One-vs-all
 
 **Review**
-- Lecture Slides
+- [Lecture Slides](lecture6.pdf)
 
 **Quiz**
 - [x] Logistic Regression
@@ -41,7 +41,7 @@ Machine learning models need to generalize well to new examples that the model h
 - [x] Regularized Logistic Regression
 
 **Review**
-- Lecture Slides
+- [Lecture Slides](lecture7.pdf)
 
 **Quiz**
 - [x] Regularization
