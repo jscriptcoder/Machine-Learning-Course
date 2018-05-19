@@ -41,12 +41,12 @@ As always, if you get stuck on the quiz and programming assignment, you should p
 This course includes programming assignments designed to help you understand how to implement the learning algorithms in practice. To complete the programming assignments, you will need to use Octave or MATLAB. This module introduces Octave/Matlab and shows you how to submit an assignment.
 
 ### Octave/Matlab Tutorial ###
-- [x] Basic Operations
-- [x] Moving Data Around
-- [x] Computing on Data
-- [x] Plotting Data
-- [x] Control Statements: for, while, if statement
-- [x] Vectorization
+- [x] [Basic Operations](https://www.youtube.com/watch?v=39PyhM0LAow&index=25&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
+- [x] [Moving Data Around](https://www.youtube.com/watch?v=FXLy8D2dnio&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=26)
+- [x] [Computing on Data](https://www.youtube.com/watch?v=GZqgeFBxOKc)
+- [x] [Plotting Data](https://www.youtube.com/watch?v=8ClrEqsvPP0&index=27&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
+- [x] [Control Statements: for, while, if statement](https://www.youtube.com/watch?v=HFtJbRKuwtI&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=28)
+- [x] [Vectorization](https://www.youtube.com/watch?v=9CIYT72UDHw&index=29&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
 
 **Review**
 - Lecture Slides
