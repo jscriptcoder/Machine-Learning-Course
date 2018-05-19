@@ -17,15 +17,15 @@ As always, if you get stuck on the quiz and programming assignment, you should p
 - [x] More Octave/MATLAB resources
 
 ### Multivariate Linear Regression ###
-- [x] Multiple Features
-- [x] Gradient Descent for Multiple Variables
-- [x] Gradient Descent in Practice I - Feature Scaling
-- [x] Gradient Descent in Practice II - Learning Rate
-- [x] Features and Polynomial Regression
+- [x] [Multiple Features](https://www.youtube.com/watch?v=Q4GNLhRtZNc&index=18&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
+- [x] [Gradient Descent for Multiple Variables](https://www.youtube.com/watch?v=pkJjoro-b5c&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=19)
+- [x] [Gradient Descent in Practice I - Feature Scaling](https://www.youtube.com/watch?v=r5E2X1JdHAU&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=20)
+- [x] [Gradient Descent in Practice II - Learning Rate](https://www.youtube.com/watch?v=CYlR9oYhYuY&index=21&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
+- [x] [Features and Polynomial Regression](https://www.youtube.com/watch?v=Hwj_9wMXDVo&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=22)
 
 ### Computing Parameters Analytically ###
-- [x] Normal Equation
-- [x] Normal Equation Noninvertibility
+- [x] [Normal Equation](https://www.youtube.com/watch?v=B-Ks01zR4HY&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=24)
+- [x] [Normal Equation Noninvertibility](https://www.youtube.com/watch?v=FZ1qPqVeMSQ)
 
 ### Submitting Programming Assignments ###
 - [x] Working on and Submitting Programming Assignments
