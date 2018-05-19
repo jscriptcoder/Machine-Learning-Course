@@ -32,7 +32,7 @@ As always, if you get stuck on the quiz and programming assignment, you should p
 - [x] Programming tips from Mentors
 
 **Review**
-- Lecture Slides
+- [Lecture Slides](lecture4.pdf)
 
 **Quiz**
 - [x] Linear Regression with Multiple Variables
@@ -49,7 +49,7 @@ This course includes programming assignments designed to help you understand how
 - [x] [Vectorization](https://www.youtube.com/watch?v=9CIYT72UDHw&index=29&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
 
 **Review**
-- Lecture Slides
+- [Lecture Slides](lecture5.pdf)
 
 **Quiz**
 - [x] Octave/Matlab Tutorial
