@@ -13,7 +13,9 @@ On the process to organize this course with all the material. Unfortunately I wo
 1. Linear Regression with Multiple Variables
 2. Octave/Matlab Tutorial
 
-- [x] Week 3
+- [x] [Week 3](week3)
+1. Logistic Regression
+2. Regularization
 
 - [x] Week 4
 
