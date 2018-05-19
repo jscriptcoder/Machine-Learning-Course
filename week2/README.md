@@ -55,4 +55,4 @@ This course includes programming assignments designed to help you understand how
 - [x] Octave/Matlab Tutorial
 
 **Programming Assignment**
-- [x] [Linear Regression](ext1.pdf)
+- [x] [Linear Regression](ex1.pdf)
