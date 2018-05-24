@@ -9,13 +9,13 @@ Welcome to week 4! This week, we are covering neural networks. Neural networks i
 - [x] [Neurons and the Brain](https://www.youtube.com/watch?v=m3U1_Zv4_Ik&index=44&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
 
 ## Neural Networks ##
-- [x] Model Representation I
-- [x] Model Representation II
+- [x] [Model Representation I](https://www.youtube.com/watch?v=EVeqrPGfuCY&index=45&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
+- [x] [Model Representation II](https://www.youtube.com/watch?v=iPNN805konI&index=46&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
 
 ## Applications ##
-- [x] Examples and Intuitions I
-- [x] Examples and Intuitions II
-- [x] Multiclass Classification
+- [x] [Examples and Intuitions I](https://www.youtube.com/watch?v=0a19YIQgRL4&index=47&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
+- [x] [Examples and Intuitions II](https://www.youtube.com/watch?v=0i9OhkbfNwE&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=48)
+- [x] [Multiclass Classification](https://www.youtube.com/watch?v=gAKQOZ5zIWg&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=49)
 
 **Review**
 - Lecture Slides
