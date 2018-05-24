@@ -18,10 +18,10 @@ Welcome to week 4! This week, we are covering neural networks. Neural networks i
 - [x] [Multiclass Classification](https://www.youtube.com/watch?v=gAKQOZ5zIWg&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=49)
 
 **Review**
-- Lecture Slides
+- [Lecture Slides](lecture8.pdf)
 
 **Quiz**
 - [x] Neural Networks: Representation
 
 **Programming Assignment**
-- [x] Multi-class Classification and Neural Networks
+- [x] [Multi-class Classification and Neural Networks](ex3.pdf)
