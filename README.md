@@ -17,7 +17,8 @@ On the process to organize this course with all the material. Unfortunately I wo
 1. Logistic Regression
 2. Regularization
 
-- [x] Week 4
+- [x] [Week 4](week4)
+1. Neural Networks: Representation
 
 - [x] Week 5
 
