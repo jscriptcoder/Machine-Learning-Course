@@ -23,7 +23,9 @@ On the process to organize this course with all the material. Unfortunately I wo
 - [x] [Week 5](week5)
 1. Neural Networks: Learning
 
-- [x] Week 6
+- [x] [Week 6](week6)
+1. Advice for Applying Machine Learning
+2. Machine Learning System Design
 
 - [x] Week 7
 
