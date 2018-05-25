@@ -1,18 +1,17 @@
 # Week 1
 
-## Introduction ##
-
+## Introduction
 Welcome to Machine Learning! This week, we introduce the core idea of teaching a computer to learn concepts using data—without being explicitly programmed.
 
 We are going to start by covering linear regression with one variable. Linear regression predicts a real-valued output based on an input value. We discuss the application of linear regression to housing price prediction, present the notion of a cost function, and introduce the gradient descent method for learning.
 
 We’ll also have optional lessons that provide a refresher on linear algebra concepts. Basic understanding of linear algebra is necessary for the rest of the course, especially as we begin to cover models with multiple variables. If you feel confident in your understanding of linear algebra, feel free to take a break or help other students out in the forums.
 
-### Welcome ###
+### Welcome
 - [x] [Welcome to Machine Learning](https://www.youtube.com/watch?v=gNkE3tFUFuw&list=PL0Smm0jPm9WcCsYvbhPCdizqNKps69W4Z)
 - [x] Machine Learning Honor Code
 
-### Introduction ###
+### Introduction
 - [x] [Welcome](https://www.youtube.com/watch?v=571IIGJKeoA&t=20s)
 - [x] [What is Machine Learning?](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=0)
 - [x] How to Use Discussion Forums
@@ -28,16 +27,16 @@ We’ll also have optional lessons that provide a refresher on linear algebra co
 **Quiz**
 - [x] Introduction
 
-## Linear Regression with One Variable ##
+## Linear Regression with One Variable
 Linear regression predicts a real-valued output based on an input value. We discuss the application of linear regression to housing price prediction, present the notion of a cost function, and introduce the gradient descent method for learning.
 
-### Model and Cost Function ###
+### Model and Cost Function
 - [x] [Model Representation](https://www.youtube.com/watch?v=kHwlB_j7Hkc&index=3&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
 - [x] [Cost Function](https://www.youtube.com/watch?v=yuH4iRcggMw&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=4)
 - [x] [Cost Function - Intuition I](https://www.youtube.com/watch?v=yR2ipCoFvNo&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=5)
 - [x] [Cost Function - Intuition II](https://www.youtube.com/watch?v=0kns1gXLYg4&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=6)
 
-### Parameter Learning ###
+### Parameter Learning
 - [x] [Gradient Descent](https://www.youtube.com/watch?v=F6GSRDoB-Cg&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=7)
 - [x] [Gradient Descent Intuition](https://www.youtube.com/watch?v=YovTqTY-PYY&index=8&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
 - [x] [Gradient Descent For Linear Regression](https://www.youtube.com/watch?v=GtSf2T6Co80&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=9)
@@ -49,10 +48,10 @@ Linear regression predicts a real-valued output based on an input value. We disc
 **Quiz**
 - [x] Linear Regression with One Variable
 
-## Linear Algebra Review ##
+## Linear Algebra Review
 This optional module provides a refresher on linear algebra concepts. Basic understanding of linear algebra is necessary for the rest of the course, especially as we begin to cover models with multiple variables.
 
-### Linear Algebra Review ###
+### Linear Algebra Review
 - [x] [Matrices and Vectors](https://www.youtube.com/watch?v=Dft1cqjwlXE&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=11)
 - [x] [Addition and Scalar Multiplication](https://www.youtube.com/watch?v=4WP6jVGIn7M&index=12&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
 - [x] [Matrix Vector Multiplication](https://www.youtube.com/watch?v=gPegoVYp64w&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=13)
