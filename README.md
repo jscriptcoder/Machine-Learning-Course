@@ -3,7 +3,7 @@ Machine Learning by Stanford University
 
 On the process to organize this course with all the material. Unfortunately I won't be able to provide with the solutions based on [Coursera Honor Code](https://learner.coursera.help/hc/en-us/articles/209818863-Coursera-Honor-Code)
 
-## Course ##
+## Course
 - [x] [Week 1](week1)
 1. Introduction
 2. Linear Regression with One Variable
@@ -20,7 +20,8 @@ On the process to organize this course with all the material. Unfortunately I wo
 - [x] [Week 4](week4)
 1. Neural Networks: Representation
 
-- [x] Week 5
+- [x] [Week 5](week5)
+1. Neural Networks: Learning
 
 - [x] Week 6
 
