@@ -20,10 +20,10 @@ The Neural Network programming exercise will be one of the more challenging ones
 - [x] [Autonomous Driving](https://www.youtube.com/watch?v=ppFyPUx9RIU&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=57)
 
 **Review**
-- Lecture Slides
+- [Lecture Slides](lecture9.pdf)
 
 **Quiz**
 - [x] Neural Networks: Learning
 
 **Programming Assignment**
-- [x] Neural Network Learning
+- [x] [Neural Network Learning](ex4.pdf)
