@@ -38,6 +38,7 @@ On the process to organize this course with all the material. Unfortunately I wo
 1. Anomaly Detection
 2. Recommender Systems
 
-- [x] Week 10
+- [x] [Week 10](week10)
+1. Large Scale Machine Learning
 
 - [x] Week 11
