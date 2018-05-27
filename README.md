@@ -34,7 +34,9 @@ On the process to organize this course with all the material. Unfortunately I wo
 1. Unsupervised Learning
 2. Dimensionality Reduction
 
-- [x] Week 9
+- [x] [Week 9](week9)
+1. Anomaly Detection
+2. Recommender Systems
 
 - [x] Week 10
 
