@@ -1,5 +1,5 @@
 # Machine Learning Course
-Machine Learning by Stanford University
+Machine Learning by Stanford University and provided by [Coursera](https://www.coursera.org/learn/machine-learning)
 
 **Note:** 
 Unfortunately I won't be able to provide with the solutions based on [Coursera Honor Code](https://learner.coursera.help/hc/en-us/articles/209818863-Coursera-Honor-Code)
