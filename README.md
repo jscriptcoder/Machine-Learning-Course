@@ -27,7 +27,8 @@ On the process to organize this course with all the material. Unfortunately I wo
 1. Advice for Applying Machine Learning
 2. Machine Learning System Design
 
-- [x] Week 7
+- [x] [Week 7](week7)
+1. Support Vector Machines
 
 - [x] Week 8
 
