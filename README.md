@@ -30,7 +30,9 @@ On the process to organize this course with all the material. Unfortunately I wo
 - [x] [Week 7](week7)
 1. Support Vector Machines
 
-- [x] Week 8
+- [x] [Week 8](week8)
+1. Unsupervised Learning
+2. Dimensionality Reduction
 
 - [x] Week 9
 
