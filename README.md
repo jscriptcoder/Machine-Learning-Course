@@ -41,4 +41,5 @@ On the process to organize this course with all the material. Unfortunately I wo
 - [x] [Week 10](week10)
   - Large Scale Machine Learning
 
-- [x] Week 11
+- [x] [Week 11](week11)
+  - Application Example: Photo OCR
