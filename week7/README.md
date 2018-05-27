@@ -18,10 +18,10 @@ As always, if you get stuck on the quiz and programming assignment, you should p
 - [x] [Using An SVM](https://www.youtube.com/watch?v=FCUBwP-JTsA&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=75)
 
 **Review**
-- Lecture Slides
+- [Lecture Slides](lecture12.pdf)
 
 **Quiz**
 - [x] Support Vector Machines
 
 **Programming Assignment**
-- [x] Support Vector Machines
+- [x] [Support Vector Machines](ex6.pdf)
