@@ -5,40 +5,40 @@ On the process to organize this course with all the material. Unfortunately I wo
 
 ## Course
 - [x] [Week 1](week1)
-1. Introduction
-2. Linear Regression with One Variable
-3. Linear Algebra Review
+  - Introduction
+  - Linear Regression with One Variable
+  - Linear Algebra Review
 
 - [x] [Week 2](week2)
-1. Linear Regression with Multiple Variables
-2. Octave/Matlab Tutorial
+  - Linear Regression with Multiple Variables
+  - Octave/Matlab Tutorial
 
 - [x] [Week 3](week3)
-1. Logistic Regression
-2. Regularization
+  - Logistic Regression
+  - Regularization
 
 - [x] [Week 4](week4)
-1. Neural Networks: Representation
+  - Neural Networks: Representation
 
 - [x] [Week 5](week5)
-1. Neural Networks: Learning
+  - Neural Networks: Learning
 
 - [x] [Week 6](week6)
-1. Advice for Applying Machine Learning
-2. Machine Learning System Design
+  - Advice for Applying Machine Learning
+  - Machine Learning System Design
 
 - [x] [Week 7](week7)
-1. Support Vector Machines
+  - Support Vector Machines
 
 - [x] [Week 8](week8)
-1. Unsupervised Learning
-2. Dimensionality Reduction
+  - Unsupervised Learning
+  - Dimensionality Reduction
 
 - [x] [Week 9](week9)
-1. Anomaly Detection
-2. Recommender Systems
+  - Anomaly Detection
+  - Recommender Systems
 
 - [x] [Week 10](week10)
-1. Large Scale Machine Learning
+  - Large Scale Machine Learning
 
 - [x] Week 11
