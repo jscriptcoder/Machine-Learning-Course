@@ -2,7 +2,7 @@
 Machine Learning by Stanford University and provided by [Coursera](https://www.coursera.org/learn/machine-learning)
 
 **Note:** 
-Unfortunately I won't be able to provide with the solutions based on [Coursera Honor Code](https://learner.coursera.help/hc/en-us/articles/209818863-Coursera-Honor-Code)
+Unfortunately I won't be able to provide with the solutions to the programming assigmments based on [Coursera Honor Code](https://learner.coursera.help/hc/en-us/articles/209818863-Coursera-Honor-Code)
 
 Machine learning is the science of getting computers to act without being explicitly programmed. In the past decade, machine learning has given us self-driving cars, practical speech recognition, effective web search, and a vastly improved understanding of the human genome. Machine learning is so pervasive today that you probably use it dozens of times a day without knowing it. Many researchers also think it is the best way to make progress towards human-level AI. What am I learning in this class? the most effective machine learning techniques, and gain practice implementing them and getting them to work by myself. About not only the theoretical underpinnings of learning, but also gain the practical know-how needed to quickly and powerfully apply these techniques to new problems. Finally, about some of Silicon Valley's best practices in innovation as it pertains to machine learning and AI.
 
