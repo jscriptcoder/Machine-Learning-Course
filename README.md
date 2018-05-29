@@ -1,4 +1,4 @@
-# Machine Learning Course
+# Machine Learning Course [[certificate](certificate.pdf)]
 Machine Learning by Stanford University and provided by [Coursera](https://www.coursera.org/learn/machine-learning)
 
 **Note:** 
